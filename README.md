@@ -133,5 +133,3 @@ SwissLPs Minecraft-Plugin ist eine funktionsreiche Erweiterung für deinen Serve
 Dieses Plugin ist geistiges Eigentum von **SwissLP**. Die Weitergabe, Modifikation oder Nutzung des Plugins ohne ausdrückliche Erlaubnis ist untersagt. Alle Rechte vorbehalten.
 
 ---
-
-Lass mich wissen, ob ich noch etwas hinzufügen oder anpassen soll! 😊
