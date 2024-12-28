@@ -1,0 +1,18 @@
+name: SwissLPMod
+version: 1.0
+main: com.swisslp.mod.Plugin
+description: A plugin to restore chests and inventories.
+commands:
+  restorechest:
+    description: Restore a chest to a previous state.
+  restoreinventory:
+    description: Restore a player's inventory to a previous state.
+  listinventar:
+    description: List all players' inventories.
+  listkiste:
+    description: List interactions with a chest.
+  listblock:
+    description: List all block break logs.
+  timeout:
+    description: Timeout a player for a specified number of hours.
+api-version: 1.15
